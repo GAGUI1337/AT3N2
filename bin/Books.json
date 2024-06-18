@@ -1,0 +1,63 @@
+[
+    {
+        "author": "José de Alencar",
+        "name": "Senhora",
+        "genre": "Romance",
+        "copies": 1
+    },
+    {
+        "author": "Machado de Assis",
+        "name": "Memórias Póstumas de Brás Cubas",
+        "genre": "Romance",
+        "copies": 2
+    },
+    {
+        "author": "Castro Alves",
+        "name": "Os Escravos",
+        "genre": "Poesia",
+        "copies": 3
+    },
+    {
+        "author": "Aluísio Azevedo",
+        "name": "O Cortiço",
+        "genre": "Romance",
+        "copies": 4
+    },
+    {
+        "author": "Adolfo Caminha",
+        "name": "A Normalista",
+        "genre": "Ficção",
+        "copies": 5
+    },
+    {
+        "author": "Machado de Assis",
+        "name": "Dom Casmurro",
+        "genre": "Romance",
+        "copies": 6
+    },
+    {
+        "author": "Euclides da Cunha",
+        "name": "Os Sertões",
+        "genre": "Romance",
+        "copies": 7
+    },
+    {
+        "author": "Monteiro Lobato",
+        "name": "Urupês",
+        "genre": "Genre 1",
+        "copies": 8
+    },
+    {
+        "author": "Miguel de Cervantes",
+        "name": "Dom Quixote de la Mancha",
+        "genre": "Romance",
+        "copies": 9
+    },
+    {
+        "author": "Sun Tzu",
+        "name": "A Arte Da Guerra",
+        "genre": "Tratado",
+        "copies": 10
+    }
+    
+]
